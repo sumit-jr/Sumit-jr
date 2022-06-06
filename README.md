@@ -35,11 +35,13 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sumit-jr&theme=dracula&hide_border=true)
 
 ## Stats summary📈
-
+ 
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-jr&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Sumit-jr&show_icons=true&theme=radical" />
+</div>
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sumit-jr&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Sumit-jr" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sumit-jr&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Sumit-jr" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-jr&theme=highcontrast&hide_border=true" alt="Sumit-jr" />
+ <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-jr&theme=highcontrast&hide_border=true" alt="Sumit-jr" />
 </p>
  
 ### <h2 align="center">Visitor Count</h2>
