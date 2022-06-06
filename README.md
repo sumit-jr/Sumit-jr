@@ -1,9 +1,9 @@
 # Hi there, I'm Sumit - aka [instant learning](https://www.youtube.com/channel/UCPIXa3qnZ4GRpZGxNa5SR5Q) 👋 
 
-## I'm a ML & Devops Enthuiast & Technical Writer ✍  ❤!
+## I'm a ML Enthuiast & Technical Writer ✍  ❤!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about Machine Learning & Devops
+- 🥅 2022 Goals: Learn more about Machine Learning.
 - 🎨 Fun fact: I love to draw digital arts
 - ✍ Read my articles @ [Hashnode](https://sumitsahjr.hashnode.dev/), [Medium](https://medium.com/@er.sumitsah)
 
