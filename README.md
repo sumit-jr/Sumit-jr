@@ -55,7 +55,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to git](https://medium.com/@er.sumitsah/introduction-to-git-30abde567749)
+- [Begineer's guide to ML](https://medium.com/@er.sumitsah/a-beginners-guide-to-machine-learning-60b733a8983)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@er.sumitsah)
