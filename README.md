@@ -17,7 +17,7 @@
 
 <p align="left">  
 <a href="https://twitter.com/SumitSah_jr" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
-<a href="https://linkedin.com/in/Sumit-prasad-sah/![image](https://user-images.githubusercontent.com/81641001/172227677-d10f3afa-d000-45c4-ab56-6dfeb09730c2.png)
+<a href="https://linkedin.com/in/Sumit-prasad-sah/"![image](https://user-images.githubusercontent.com/81641001/172227677-d10f3afa-d000-45c4-ab56-6dfeb09730c2.png)
 " target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 <a href="https://www.youtube.com/channel/UCPIXa3qnZ4GRpZGxNa5SR5Q" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
 <a href="mailto:sahsumit@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
