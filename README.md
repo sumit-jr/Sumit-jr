@@ -1,5 +1,11 @@
 # Hi there, I'm Sumit - aka [instant learning](https://www.youtube.com/channel/UCPIXa3qnZ4GRpZGxNa5SR5Q) 👋 
-
+<p align="left">
+ <a href="http://twitter.com/SumitSah_jr">
+    <img src="https://img.shields.io/twitter/follow/SumitSah_jr?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="SumitSah_jr's Twitter"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sumit-jr" alt="Sumit" />
+ </p>
+ 
 ## I'm a ML Enthuiast & Technical Writer ✍  ❤!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -36,17 +42,14 @@
 
 ## Stats summary📈
  
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-jr&theme=radical&layout=compact" />
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=Sumit-jr&show_icons=true&theme=radical" />
-</div>
+<table>
+  <tr>
+ <td><img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-jr&theme=radical&layout=compact" /></td>
+ <td><img class="img" src="https://github-readme-stats.vercel.app/api?username=Sumit-jr&show_icons=true&theme=radical" /></td>
+</tr>
+ </table>
 <p align="center">
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-jr&theme=highcontrast&hide_border=true" alt="Sumit-jr" />
-</p>
- 
-### <h2 align="center">Visitor Count</h2>
- <p align="center"> 
- <img src="https://profile-counter.glitch.me/{Sumit-jr}/count.svg" alt="Sumit-jr" />
 </p>
 
 ### 📕 Latest Blog Posts
