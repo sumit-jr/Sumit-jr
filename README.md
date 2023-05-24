@@ -35,10 +35,7 @@
 <br />
 <br />
 
-### <h2 align="center">Contribution Graph📚</h2>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sumit-jr&theme=dracula&hide_border=true)
-
+<!-- ### <h2 align="center">Contribution Graph📚</h2> -->
 ## Stats summary📈
  
 <table>
