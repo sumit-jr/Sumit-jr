@@ -9,7 +9,7 @@
 ## I'm a ML Enthuiast & Technical Writer ✍  ❤!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about Machine Learning.
+- 🥅 2023 Goals: Learn more about Deep Learning.
 - 🎨 Fun fact: I love to draw digital arts
 - ✍ Read my articles @ [Hashnode](https://sumitsahjr.hashnode.dev/), [Medium](https://medium.com/@er.sumitsah)
 
