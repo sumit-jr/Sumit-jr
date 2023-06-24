@@ -37,6 +37,7 @@
 
 <!-- ### <h2 align="center">Contribution Graph📚</h2> -->
 ## Stats summary📈
+[![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumit-jr&theme=dracula)](https://github.com/sumit-jr/github-readme-activity-graph)
  
 <table>
   <tr>
