@@ -36,8 +36,8 @@
 <br />
 
 <!-- ### <h2 align="center">Contribution Graph📚</h2> -->
-## Stats summary📈
-[![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumit-jr&theme=dracula)](https://github.com/sumit-jr/github-readme-activity-graph)
+## Profile Details📈
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumit-jr&theme=calm
  
 <table>
   <tr>
