@@ -43,8 +43,9 @@
 
 <!-- ### <h2 align="center">Contribution Graph📚</h2> -->
 ## Profile Details📈
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumit-jr&theme=calm
- 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumit-jr&theme=2077)
+
 <table>
   <tr>
  <td><img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-jr&theme=radical&layout=compact" /></td>
@@ -58,7 +59,7 @@ http://github-profile-summary-cards.vercel.app/api/cards/profile-details?usernam
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Begineer's guide to ML](https://medium.com/@er.sumitsah/a-beginners-guide-to-machine-learning-60b733a8983)
+- [Encoding Techniques in ML](https://medium.com/@er.sumitsah/encoding-techniques-in-ml-30858cad1daa)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@er.sumitsah)
