@@ -1,4 +1,3 @@
-readme github
 # Hi there, I'm Sumit - aka [instant learning](https://www.youtube.com/channel/UCPIXa3qnZ4GRpZGxNa5SR5Q) 👋 
 <p align="left">
  <a href="http://twitter.com/SumitSah_jr">
@@ -12,7 +11,7 @@ readme github
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about Deep Learning.
 - 🎨 Fun fact: I love to draw digital arts
-- ✍ Read my articles @ , [Medium](https://medium.com/@er.sumitsah)
+- ✍ Read my articles @ [Medium](https://medium.com/@er.sumitsah)
 
 ### Connect with me:
 
