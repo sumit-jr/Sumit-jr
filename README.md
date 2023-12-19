@@ -1,3 +1,4 @@
+readme github
 # Hi there, I'm Sumit - aka [instant learning](https://www.youtube.com/channel/UCPIXa3qnZ4GRpZGxNa5SR5Q) 👋 
 <p align="left">
  <a href="http://twitter.com/SumitSah_jr">
@@ -11,7 +12,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about Deep Learning.
 - 🎨 Fun fact: I love to draw digital arts
-- ✍ Read my articles @ [Hashnode](https://sumitsahjr.hashnode.dev/), [Medium](https://medium.com/@er.sumitsah)
+- ✍ Read my articles @ , [Medium](https://medium.com/@er.sumitsah)
 
 ### Connect with me:
 
@@ -22,22 +23,28 @@
 <a href="mailto:sahsumit@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 </p>
 
-### Languages and Tools:
+**Languages I have used**
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<br />
-<br />
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=SQL)
+
+**Technologies i have worked with**
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 
 <!-- ### <h2 align="center">Contribution Graph📚</h2> -->
 ## Profile Details📈
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumit-jr&theme=calm
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumit-jr&theme=calm
  
 <table>
   <tr>
