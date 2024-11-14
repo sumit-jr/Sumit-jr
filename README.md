@@ -6,18 +6,18 @@
   <img src="https://komarev.com/ghpvc/?username=Sumit-jr" alt="Sumit" />
  </p>
  
-## I'm a ML Enthuiast & Technical Writer ✍  ❤!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Learn more about Deep Learning.
-- 🎨 Fun fact: I love to draw digital arts
+## I'm a Ruby on Rails Developer, ML Enthusiast & Technical Writer ✍ ❤!
+- 🌱 I’m currently diving into the Ruby on Rails tech stack.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2024 Goals: Deepen my understanding of Deep Learning and RoR.
+- 🎨 Fun fact: I love creating digital art!
 - ✍ Read my articles @ [Medium](https://medium.com/@er.sumitsah)
 
 ### Connect with me:
 
 <p align="left">  
 <a href="https://twitter.com/SumitSah_jr" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
-<a href="https://linkedin.com/in/Sumit-prasad-sah/"target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="https://linkedin.com/in/Sumit-prasad-sah/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 <a href="https://www.youtube.com/channel/UCPIXa3qnZ4GRpZGxNa5SR5Q" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
 <a href="mailto:sahsumit@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 </p>
@@ -30,9 +30,10 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=red)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=SQL)
 
-**Technologies i have worked with**
+**Technologies I have worked with**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
@@ -40,9 +41,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-000000?style=flat&logo=Ruby&logoColor=red)
 
-<!-- ### <h2 align="center">Contribution Graph📚</h2> -->
-## Profile Details📈
+## Profile Details 📈
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumit-jr&theme=2077)
 
@@ -63,8 +64,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@er.sumitsah)
-
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
