@@ -1,4 +1,4 @@
-# Hi there, I'm Sumit - aka [instant learning](https://www.youtube.com/channel/UCPIXa3qnZ4GRpZGxNa5SR5Q) 👋 
+# Hi there, I'm Sumit 👋 
 <p align="left">
  <a href="http://twitter.com/SumitSah_jr">
     <img src="https://img.shields.io/twitter/follow/SumitSah_jr?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="SumitSah_jr's Twitter"/>
