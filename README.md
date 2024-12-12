@@ -49,13 +49,10 @@
 
 <table>
   <tr>
- <td><img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-jr&theme=radical&layout=compact" /></td>
- <td><img class="img" src="https://github-readme-stats.vercel.app/api?username=Sumit-jr&show_icons=true&theme=radical" /></td>
+ <td><img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-jr&theme=radical&layout=compact" /></td>
+ <td><img class="img" src="https://github-readme-stats.vercel.app/api?username=sumit-jr&show_icons=true&theme=radical" /></td>
 </tr>
  </table>
-<p align="center">
- <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-jr&theme=highcontrast&hide_border=true" alt="Sumit-jr" />
-</p>
 
 ### 📕 Latest Blog Posts
 
